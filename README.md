@@ -1,5 +1,5 @@
 # Analysis-on-2019 sales-transactional-data
-
+![alt text](image-1.png)
 
 1. Business Understanding:
  Objective:
